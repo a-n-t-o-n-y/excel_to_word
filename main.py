@@ -5,7 +5,6 @@ import datetime as dt
 import numpy as np
 from docx.oxml import OxmlElement
 from docx.oxml.ns import qn
-from string import ascii_uppercase
 
 ### FUNCTIONS ###
 
